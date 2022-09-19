@@ -10,3 +10,7 @@ input{
     font-size: 2em;
     text-align: center;
 }
+button{
+    height: 35px;
+    border-radius: 16px;
+}
