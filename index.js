@@ -22,6 +22,6 @@ function check(){
         disp.style.color ="red"
     }else if (myScore>100 || myScore<0){
         disp.innerHTML = "<h2>Invalid</h2>"
-        disp.style.color ="black"
+        disp.style.color ="white"
     }
 }
