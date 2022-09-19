@@ -1,0 +1,12 @@
+*{
+    top: 0;
+    margin: 0;
+}
+h1{
+    font-size: 3em;
+}
+input{
+    margin-top: 50px;
+    font-size: 2em;
+    text-align: center;
+}
